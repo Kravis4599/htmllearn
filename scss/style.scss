@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.header {
+	background: url("../img/header_bg.jpg");
+}
+
+.main {
+	.examples {
+		.cards {
+			display: flex;
+			.block1 {
+				background: url("../img/Example_photo1.jpg") no-repeat center top;
+			}
+			.block2 {
+				background: url("../img/Example_photo2.jpg") no-repeat center top;
+			}
+			.block3 {
+				background: url("../img/Example_photo3.jpg") no-repeat center top;
+			}
+			.block4 {
+				background: url("../img/Example_photo4.jpg") no-repeat center top;
+			}
+		}
+		
+	}
+}
